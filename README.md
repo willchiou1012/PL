@@ -50,11 +50,10 @@
 >>+ 變數命名規則  
 >>    1.只能由英文字母、數字、底線或中文字所組成(建議使用英文字母)  
 >>    2.英文字母大小寫是有差異的  
->>>       Ex:Fine 和 fine是兩個不同的變數  
+>>>     Ex:Fine 和 fine是兩個不同的變數  
 >>    3.不能是保留字或內建函數名稱  
->>>       Ex:保留字(int,float)，內建函數(bool,set)  
->>    4.變數名稱不能有空白，空白可用底線代替 
->> ---
+>>>     Ex:保留字(int,float)，內建函數(bool,set)   
+>>---
 >>+ 練習題  
 >>    [**1.第一題**](https://github.com/willchiou1012/PL/blob/main/W2H1.ipynb)  
 >>    [**2.第二題**](https://github.com/willchiou1012/PL/blob/main/W2H2.ipynb)  
