@@ -18,7 +18,7 @@
 ---
 ## 📖作業連結區
 >+ **1.作業一**
->+ https://github.com/willchiou1012/PL/blob/main/Homework1_0922/homework1.ipynb
+>> https://github.com/willchiou1012/PL/blob/main/Homework1_0922/homework1.ipynb
 >+ **2.作業二**
 >+ **3.作業三**
 >+ **4.作業四**
