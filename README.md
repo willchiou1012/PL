@@ -20,6 +20,7 @@
 >+ **1.作業一**
 >> https://github.com/willchiou1012/PL/blob/main/Homework1_0922/homework1.ipynb
 >+ **2.作業二**
+>> https://github.com/willchiou1012/PL/blob/main/HW2/Untitled.ipynb
 >+ **3.作業三**
 >+ **4.作業四**
 >+ **5.作業五**
